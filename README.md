@@ -1,2 +1,2 @@
 # Deep-Learning-Projects
-Place to hold all my deep learning projects that are public
+A place to hold all my deep learning projects that are public
