@@ -1,3 +1,3 @@
 # About Me
 ## L Farah
-Data practitioner transitioned to machine learning researcher/practitioner
+Data practitioner who transitioned to machine learning researcher/practitioner
